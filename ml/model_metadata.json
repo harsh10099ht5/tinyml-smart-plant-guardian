@@ -1,0 +1,20 @@
+{
+    "model_type": "RandomForestClassifier",
+    "features": [
+        "soil_moisture",
+        "temperature",
+        "humidity",
+        "hours_since_watering"
+    ],
+    "classes": [
+        "Excess Water",
+        "Healthy",
+        "Needs Water",
+        "Unfavorable Temperature"
+    ],
+    "number_of_trees": 100,
+    "maximum_depth": 6,
+    "random_state": 42,
+    "deployment_target": "ESP32",
+    "status": "Prototype model for educational use"
+}

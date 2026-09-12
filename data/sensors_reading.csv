@@ -1,0 +1,21 @@
+soil_moisture,temperature,humidity,hours_since_watering,label
+75,25.0,60,1.0,Healthy
+70,26.0,62,2.0,Healthy
+65,24.5,58,1.5,Healthy
+80,27.0,65,1.0,Healthy
+60,25.5,61,3.0,Healthy
+25,29.0,55,8.0,Needs Water
+20,30.0,50,10.0,Needs Water
+15,31.0,48,12.0,Needs Water
+28,28.5,52,9.0,Needs Water
+22,30.5,49,11.0,Needs Water
+95,24.0,85,1.0,Excess Water
+92,25.0,88,2.0,Excess Water
+98,23.5,90,1.0,Excess Water
+90,24.5,86,3.0,Excess Water
+94,26.0,89,2.0,Excess Water
+70,40.0,45,2.0,Unfavorable Temperature
+65,38.0,50,3.0,Unfavorable Temperature
+60,39.5,48,4.0,Unfavorable Temperature
+75,41.0,42,1.0,Unfavorable Temperature
+68,37.5,52,2.0,Unfavorable Temperature
